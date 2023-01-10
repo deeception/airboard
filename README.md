@@ -25,3 +25,8 @@ You can also change the pen color and clear the screen by using the respective b
 
 ## Contributions
 Feel free to contribute to this project by submitting pull requests or reporting bugs.
+
+![Screenshot (76)](https://user-images.githubusercontent.com/103402113/211655698-f4d5e2e4-93c4-4cde-a51c-9602cf8f141b.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/103402113/211655719-b7382987-16e3-4aa2-a959-9aef50bff336.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/103402113/211655730-06877fe3-72e0-4e8f-a0c2-b908d0d4de1c.png)
+
